@@ -1,41 +1,3 @@
-<p align="center">
-  <img src="./w3tec-logo.png" alt="w3tec" width="400" />
-</p>
-
-<h1 align="center">Express Typescript Boilerplate</h1>
-
-<p align="center">
-  <a href="https://david-dm.org/w3tecch/express-typescript-boilerplate">
-    <img src="https://david-dm.org/w3tecch/express-typescript-boilerplate/status.svg?style=flat" alt="dependency" />
-  </a>
-  <a href="https://travis-ci.org/w3tecch/express-typescript-boilerplate">
-    <img src="https://travis-ci.org/w3tecch/express-typescript-boilerplate.svg?branch=master" alt="travis" />
-  </a>
-  <a href="https://ci.appveyor.com/project/dweber019/express-typescript-boilerplate/branch/master">
-    <img src="https://ci.appveyor.com/api/projects/status/f8e7jdm8v58hcwpq/branch/master?svg=true&passingText=Windows%20passing&pendingText=Windows%20pending&failingText=Windows%20failing" alt="appveyor" />
-  </a>
-  <a href="https://stackshare.io/hirsch88/express-typescript-boilerplate">
-    <img src="https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="StackShare" />
-  </a>
-</p>
-
-<p align="center">
-  <b>A delightful way to building a Node.js RESTful API Services with beautiful code written in TypeScript.</b></br>
-  <span>Inspired by the awesome framework <a href="https://laravel.com/">laravel</a> in PHP and of the repositories from <a href="https://github.com/pleerock">pleerock</a></span></br>
-  <sub>Made with ❤️ by <a href="https://github.com/w3tecch">w3tech</a>, <a href="https://twitter.com/GeryHirschfeld1">Gery Hirschfeld</a> and <a href="https://github.com/w3tecch/express-typescript-boilerplate/graphs/contributors">contributors</a></sub>
-</p>
-
-<br />
-
-![divider](./w3tec-divider.png)
-
-## ❯ Why
-
-Our main goal with this project is a feature complete server application.
-We like you to be focused on your business and not spending hours in project configuration.
-
-Try it!! We are happy to hear your feedback or any kind of new features.
-
 ### Features
 
 - **Beautiful Code** thanks to the awesome annotations of the libraries from [pleerock](https://github.com/pleerock).
@@ -545,20 +507,3 @@ DB_PORT=3306
 | [SQLite Documentation](https://www.sitepoint.com/getting-started-sqlite3-basic-commands/) | Getting Started with SQLite3 – Basic Commands. |
 | [GraphQL Documentation](http://graphql.org/graphql-js/) | A query language for your API. |
 | [DataLoader Documentation](https://github.com/facebook/dataloader) | DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching. |
-
-![divider](./w3tec-divider.png)
-
-## ❯ Related Projects
-
-- [Microsoft/TypeScript-Node-Starter](https://github.com/Microsoft/TypeScript-Node-Starter) - A starter template for TypeScript and Node with a detailed README describing how to use the two together.
-- [express-graphql-typescript-boilerplate](https://github.com/w3tecch/express-graphql-typescript-boilerplate) - A starter kit for building amazing GraphQL API's with TypeScript and express by @w3tecch
-- [aurelia-typescript-boilerplate](https://github.com/w3tecch/aurelia-typescript-boilerplate) - An Aurelia starter kit with TypeScript
-- [Auth0 Mock Server](https://github.com/hirsch88/auth0-mock-server) - Useful for e2e testing or faking an oAuth server
-
-![divider](./w3tec-divider.png)
-
-## ❯ License
-
-[MIT](/LICENSE)
-#   f u z z y - p o t a t o  
- 
