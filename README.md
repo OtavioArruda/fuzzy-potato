@@ -6,22 +6,22 @@
             <td align="center">
                 <img style="border-radius: 50%;" src="https://github.com/OtavioArruda.png?size=200" width="120px;" alt=""/>
                 <br/><sub><b>Otávio Arruda</b></sub></a><br/>
-                <a href="https://barradev.com.br/" title="Rocketseat">🚀</a>
+                <a href="https://barradev.com.br/" title="/Dev">🚀</a>
             </td>
             <td align="center">
                 <img style="border-radius: 50%;" src="https://github.com/gabriel-arrvda.png?size=200" width="120px;" alt=""/>
                 <br/><sub><b>Gabriel Arruda</b></sub></a><br/>
-                <a href="https://barradev.com.br/" title="Rocketseat">🚀</a>
+                <a href="https://barradev.com.br/" title="/Dev">🚀</a>
             </td>
             <td align="center">
                 <img style="border-radius: 50%;" src="https://github.com/Vinicius-Lima-Melo.png?size=200" width="120px;" alt=""/>
                 <br/><sub><b>Vinicius Lima</b></sub></a><br/>
-                <a href="https://barradev.com.br/" title="Rocketseat">🚀</a>
+                <a href="https://barradev.com.br/" title="/Dev">🚀</a>
             </td>
             <td align="center">
                 <img style="border-radius: 50%;" src="https://github.com/dalvan-lima.png?size=200" width="120px;" alt=""/>
                 <br/><sub><b>Dalvan Lima</b></sub></a><br/>
-                <a href="https://barradev.com.br/" title="Rocketseat">🚀</a>
+                <a href="https://barradev.com.br/" title="/Dev">🚀</a>
             </td>
         </tr>
     </table>
