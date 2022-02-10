@@ -1,3 +1,35 @@
+## Contributors
+
+<div style="width: 100%; display: flex; flex-direction: row; justify-content: center; align-items: center">
+    <div>
+        <table>
+            <tr>
+                <td align="center">
+                    <img style="border-radius: 50%;" src="https://github.com/OtavioArruda.png?size=200" width="120px;" alt=""/>
+                    <br/><sub><b>Otávio Arruda</b></sub></a><br/>
+                    <a href="https://barradev.com.br/" title="Rocketseat">🚀</a>
+                </td>
+                <td align="center">
+                    <img style="border-radius: 50%;" src="https://github.com/gabriel-arrvda.png?size=200" width="120px;" alt=""/>
+                    <br/><sub><b>Gabriel Arruda</b></sub></a><br/>
+                    <a href="https://barradev.com.br/" title="Rocketseat">🚀</a>
+                </td>
+                <td align="center">
+                    <img style="border-radius: 50%;" src="https://github.com/Vinicius-Lima-Melo.png?size=200" width="120px;" alt=""/>
+                    <br/><sub><b>Vinicius Lima</b></sub></a><br/>
+                    <a href="https://barradev.com.br/" title="Rocketseat">🚀</a>
+                </td>
+                <td align="center">
+                    <img style="border-radius: 50%;" src="https://github.com/dalvan-lima.png?size=200" width="120px;" alt=""/>
+                    <br/><sub><b>Dalvan Lima</b></sub></a><br/>
+                    <a href="https://barradev.com.br/" title="Rocketseat">🚀</a>
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+![divider](./w3tec-divider.png)
 ### Features
 
 - **Beautiful Code** thanks to the awesome annotations of the libraries from [pleerock](https://github.com/pleerock).
