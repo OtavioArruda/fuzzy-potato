@@ -9,8 +9,10 @@
                 <a href="https://barradev.com.br/" title="/Dev">🚀</a>
             </td>
             <td align="center">
-                <img style="border-radius: 50%;" src="https://github.com/gabriel-arrvda.png?size=200" width="120px;" alt=""/>
-                <br/><sub><b>Gabriel Arruda</b></sub></a><br/>
+                <a href="https://github.com/gabriel-arrvda">
+                    <img style="border-radius: 50%;" src="https://github.com/gabriel-arrvda.png?size=200" width="120px;" alt=""/>
+                    <br/><sub><b>Gabriel Arruda</b></sub></a><br/>
+                </a>
                 <a href="https://barradev.com.br/" title="/Dev">🚀</a>
             </td>
             <td align="center">
